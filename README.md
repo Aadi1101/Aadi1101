@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **aadityakomerwar@gmail.com**
 
-- 📄 Know about my experiences [resumelink.com](AADITYA_GIRISH KOMERWAR_Resume_22-07-2023-14-44-52.pdf)
+- 📄 Know about my experiences [resumelink.com]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
