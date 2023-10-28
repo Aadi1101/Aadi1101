@@ -10,10 +10,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 
-- 🌱 I’m currently learning **Deep Learning, Javascript, Blockchain, Reactjs**
-
-- 👨‍💻 All of my projects are available at [portfolio.com](portfolio.com)
-
 - 💬 Ask me about **Machine Learning, Hackathons, Data Science**
 
 - 📫 How to reach me **aadityakomerwar@gmail.com**
