@@ -37,5 +37,3 @@
 <div align="center">
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=aadi1101&" alt="aadi1101" />
   </div>
-
-<p><img src="https://activity-graph.herokuapp.com/graph?username=aadi1101&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></p>
