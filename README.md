@@ -33,3 +33,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadi1101&show_icons=true&locale=en&layout=compact" alt="aadi1101" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadi1101&show_icons=true&locale=en" alt="aadi1101" /></p>
+
+<div align="center">
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=aadi1101&" alt="aadi1101" />
+  </div>
+
+<p><img src="https://activity-graph.herokuapp.com/graph?username=aadi1101&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></p>
