@@ -35,5 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadi1101&show_icons=true&locale=en" alt="aadi1101" /></p>
 
 <div align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=aadi1101&" alt="aadi1101" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Aadi1101&" alt="aadi1101" />
   </div>
